@@ -23,3 +23,4 @@ MENU_OPTION = ('NEW GAME 1P',
 #W
 WIN_WIDTH=576
 WIN_HEIGHT: int=324
+COLOR_WHITE: tuple[int, int, int] = (255, 255, 255)
